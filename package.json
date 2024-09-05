@@ -1,0 +1,21 @@
+{
+  "name": "darkvsthemeoldfuk",
+  "displayName": " Dark (Visual Studio) Old Fuk",
+  "description": "Improved Dark (Visual Studio) theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark (Visual Studio) Old Fuk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark (Visual Studio) Old Fuk-color-theme.json"
+      }
+    ]
+  }
+}
