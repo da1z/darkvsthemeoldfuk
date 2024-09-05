@@ -2,6 +2,7 @@
   "name": "darkvsthemeoldfuk",
   "displayName": " Dark (Visual Studio) Old Fuk",
   "description": "Improved Dark (Visual Studio) theme",
+  "repository": "https://github.com/da1z/darkvsthemeoldfuk",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
